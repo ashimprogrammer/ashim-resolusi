@@ -1,4 +1,5 @@
 Ashim resolusi
 - Konsisten untuk membuat konten 2x seminggu
 - membuat platform untuk pengelolaan video
-- Belajar javascript
+- Belajar PHP
+- Belajar pyhton
